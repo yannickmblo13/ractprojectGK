@@ -1,0 +1,24 @@
+.bloc-request{
+    color: red;
+    padding: 5px;
+    margin: 5px;
+    margin-right:40px;
+}
+.allow-request{
+    color: green;
+    padding: 5px;
+    margin: 5px;
+}
+
+.Info-request-Div{
+    display: flex;
+    padding: 15px;
+    margin: 5px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.valeur{
+    color: gray;
+    font-size: 12px;
+    opacity: 0.7;
+}

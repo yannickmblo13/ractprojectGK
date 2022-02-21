@@ -1,0 +1,27 @@
+
+
+.Dashboad-div-search{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 25px;
+}
+
+.Dashboad-dropdown{
+    margin-bottom: 25px;
+}
+
+.bloc-dashboad{
+    padding: 110px;
+    background-color: rgb(228, 228, 228);
+}
+
+#bloc-dashbord-2{
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+
+}
+
+
+
+
